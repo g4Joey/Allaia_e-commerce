@@ -1,6 +1,6 @@
 # phpecommerce
 
-This project is an ecommerce website developed by Tẹju Olawoore.
+This project is an ecommerce website developed by group 19.
 To use this project
 # Download and install Xampp on your local computer.
 # Go to xampp directory on your local disk (most times C://xampp/)
