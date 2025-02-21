@@ -9,3 +9,5 @@ To use this project
 # Extract the zip file into the new folder- Allaia.
 # Inside the SQL Database is the database file. Go to localhost/phpmyadmin on your preferred browser, and create a database called allaia and import your database.
 # On your browser, go to localhost/Allaia to view the work 
+
+# Alternatively, you can access the website on this url = https://allaia.tejuolawoore.com/  as we have managed to host the website on a live server.
